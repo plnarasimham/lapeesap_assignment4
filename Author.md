@@ -1,3 +1,5 @@
 # Author
 
-Write here your name, email and BUID. 
+Name: lakshmi peesapati
+email: lapeesap@bu.edu
+
