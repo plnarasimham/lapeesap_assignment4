@@ -26,7 +26,7 @@ Run the code by submitting the task to spark-submit.
 
 ```python
 
-spark-submit main_task3.py 
+spark-submit Task1And2.py 
 
 ```
 
